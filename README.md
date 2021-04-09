@@ -1,4 +1,4 @@
-# Fuzzy-Systems-Regression
+# Fuzzy Systems Regression
 
 Create fuzzy TSK models for samples of multivariable, nonlinear functions.
 
